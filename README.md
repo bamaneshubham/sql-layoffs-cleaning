@@ -1,6 +1,6 @@
 # 🧹 SQL Data Cleaning Project – Layoffs Dataset
 
-This project demonstrates real-world data cleaning using SQL on a tech layoffs dataset collected from Layoffs.fyi.  
+This project demonstrates real-world data cleaning using SQL on a tech layoffs dataset. 
 It includes identifying and removing duplicates, handling nulls, standardizing data, and exporting a cleaned version of the dataset.
 
 ## 🗂 Files
