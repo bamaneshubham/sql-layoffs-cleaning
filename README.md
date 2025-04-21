@@ -24,6 +24,18 @@ It includes identifying and removing duplicates, handling nulls, standardizing d
 You can run the SQL file step-by-step in MySQL Workbench or DBeaver to clean the dataset yourself.  
 The final result is also exported as `cleaned_layoffs.csv`.
 
+## 📊 Exploratory Data Analysis (EDA)
+
+After cleaning the data, I performed EDA using SQL to uncover key trends and insights:
+
+- Top companies, industries, and countries by total layoffs
+- Layoff trends over time (monthly and yearly)
+- Peak layoff periods
+- Rolling totals using window functions
+- Top 5 companies by layoffs each year (ranked)
+
+Check the analysis queries in: `Exploratory Data Analysis.sql`
+
 ---
 
 > Built by Shubham Bamane as a personal portfolio project.
