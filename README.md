@@ -26,21 +26,21 @@ The final result is also exported as `cleaned_layoffs.csv`.
 
 ## 📊 Exploratory Data Analysis (EDA)
 
-After cleaning the data, I performed EDA using SQL to uncover key trends and insights:
+After cleaning the dataset, I conducted an exploratory data analysis using SQL to uncover key insights:
 
-- Top companies, industries, and countries by total layoffs
-- Layoff trends over time (monthly and yearly)
-- Peak layoff periods
-- Rolling totals using window functions
-- Top 5 companies by layoffs each year (ranked)
+- **Layoff Trends Over Time**: Analyzed monthly and yearly layoff patterns.
+- **Top Affected Industries**: Identified industries with the highest number of layoffs.
+- **Company-Specific Analysis**: Highlighted companies with significant layoff events.
+- **Geographical Impact**: Examined layoffs by country and region.
 
-### 📉 Monthly Layoffs Over Time
-![Monthly Layoffs](/monthly_layoffs.png)
+### Visualizations
 
-### 🏭 Top 10 Industries by Layoffs
-![Top Industries](/top_industries.png)
+![Monthly Layoffs Over Time](monthly_layoffs.png)
 
-> All queries can be found in `Exploratory Data Analysis.sql`
+![Top 10 Industries by Layoffs](top_industries.png)
+
+For detailed SQL queries and further analysis, refer to `Exploratory Data Analysis.sql`.
+
 
 ---
 
