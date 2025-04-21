@@ -1,6 +1,3 @@
-<img src="https://github.com/bamaneshubham/sql-layoffs-cleaning/banner.png" alt="SQL Project Banner" width="100%">
-
-
 # 🧹 SQL Data Cleaning Project – Layoffs Dataset
 
 This project demonstrates real-world data cleaning using SQL on a tech layoffs dataset. 
