@@ -34,7 +34,13 @@ After cleaning the data, I performed EDA using SQL to uncover key trends and ins
 - Rolling totals using window functions
 - Top 5 companies by layoffs each year (ranked)
 
-Check the analysis queries in: `Exploratory Data Analysis.sql`
+### 📉 Monthly Layoffs Over Time
+![Monthly Layoffs](/monthly_layoffs.png)
+
+### 🏭 Top 10 Industries by Layoffs
+![Top Industries](/top_industries.png)
+
+> All queries can be found in `Exploratory Data Analysis.sql`
 
 ---
 
